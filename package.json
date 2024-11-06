@@ -44,6 +44,7 @@
     "slugify": "^1.6.6",
     "transliteration": "^2.3.5",
     "turndown": "^7.1.2",
+    "upgrade": "^1.1.0",
     "vue": "^3.4.17",
     "vue-router": "^4.2.4",
     "vue-toast-notification": "^3.1.2",
